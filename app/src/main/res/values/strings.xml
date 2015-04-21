@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">#Hashtagator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnHashtagator">Hashtagator!!!</string>
+    <string name="instrucoes">Add text</string>
+    <string name="digaAlgo">Say something</string>
+    <string name="naoEntendi">I did not understand</string>
+    <string name="compartilheAgora">Share it now!</string>
+    <string name="texto_vazio">#Write #Or #Speak #Something #To #Start #The #Fun :)</string>
+
+</resources>
